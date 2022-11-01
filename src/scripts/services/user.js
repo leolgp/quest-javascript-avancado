@@ -1,4 +1,4 @@
-import {baseUrl, eventQuantity} from '/src/scripts/variables.js'
+import {baseUrl, eventQuantity} from '../variables.js'
 
 
 async function getUser(userName){

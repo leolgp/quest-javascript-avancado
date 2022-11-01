@@ -1,4 +1,4 @@
-import {baseUrl, repositoryQuantity} from '/src/scripts/variables.js'
+import {baseUrl, repositoryQuantity} from '../variables.js'
 
 
 async function getRepositories(userName){
